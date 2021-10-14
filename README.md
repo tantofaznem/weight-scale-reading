@@ -1,2 +1,2 @@
 # weight-scale-reading
-Read digital weight scale data using Vb.net
+I received a mission that I found almost impossible after weeks of research "how to read balance weight with real time update", I wasted a lot of time doing research, I tried various methods and all had a slow result until I asked myself a couple of questions, Why not use SerialPort (from toolbox) to communicate with the device and Threading to compare the last value with the current one? LOL🤣, it took me a long time to think about it, I know it sounds obvious. it was an intense battle, but the final results were excellent. 
